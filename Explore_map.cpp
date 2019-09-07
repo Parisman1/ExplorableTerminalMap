@@ -9,7 +9,7 @@
 #include <algorithm>
 #include <cctype>
 
-using namespace std; // test
+using namespace std;
 
 /*
 ========================================================
