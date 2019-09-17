@@ -9,6 +9,8 @@
 #include <algorithm>
 #include <cctype>
 
+#include "Object.h"
+
 using namespace std; // bad practice amirite
 
 /*
